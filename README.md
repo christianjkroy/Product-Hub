@@ -7,7 +7,6 @@ Stanford CS 177: Introduction to Product Management with AI · Fall 2026 · Team
 ## Highlights
 
 - Found that late feedback forces teams to redo work, after interviewing 16 product managers (PMs) at companies including Netflix and Autodesk
-- Chose scope changes and rework out of 3 problem areas, because their cost shows up clearly in wasted hours and extra review rounds
 - Sized the market at 1.5M PMs, with 562.5K reachable and 5,625 as a first target, using LinkedIn data and interview results
 - Prototyped a tool that sends small fixes straight to their owners and routes scope changes to the PM for approval
 
@@ -15,13 +14,7 @@ Stanford CS 177: Introduction to Product Management with AI · Fall 2026 · Team
 
 HTML
 
-## My role
-
-Helped run and synthesize the PM interviews, worked out the market size, and presented the market and solution concepts.
-
-## Team
-
-Alexis Tuchinda, Christian Roy, Efrain Angon-Cruz, Natnael Tadesse
+---
 
 ## The problem
 
