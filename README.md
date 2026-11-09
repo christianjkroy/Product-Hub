@@ -1,15 +1,15 @@
 # Product Hub
 
-**AI tool that routes late stakeholder feedback to the right owner before it turns into rework.**
+**An AI tool that sends late stakeholder feedback to the right owner before it causes rework.**
 
 Stanford CS 177: Introduction to Product Management with AI · Fall 2026 · Team of 4
 
 ## Highlights
 
-- Interviewed 16 PMs at firms like Netflix and Autodesk and found late feedback forces teams to redo work
-- Narrowed 3 problem areas to 1, choosing scope and rework because its cost can be measured in wasted hours and review cycles
-- Sized a 1.5M-PM market (562.5K serviceable, 5,625 as a first target) from LinkedIn data and interview results
-- Prototyped an AI tool that sends small fixes to their owners and routes scope changes to the PM for approval
+- Found that late feedback forces teams to redo work, after interviewing 16 product managers (PMs) at companies including Netflix and Autodesk
+- Chose scope changes and rework out of 3 problem areas, because their cost shows up clearly in wasted hours and extra review rounds
+- Sized the market at 1.5M PMs, with 562.5K reachable and 5,625 as a first target, using LinkedIn data and interview results
+- Prototyped a tool that sends small fixes straight to their owners and routes scope changes to the PM for approval
 
 ## Built with
 
@@ -17,7 +17,7 @@ HTML
 
 ## My role
 
-Helped run and synthesize the PM interviews, built the market sizing, and presented the market and solution concepts.
+Helped run and synthesize the PM interviews, worked out the market size, and presented the market and solution concepts.
 
 ## Team
 
@@ -25,11 +25,11 @@ Alexis Tuchinda, Christian Roy, Efrain Angon-Cruz, Natnael Tadesse
 
 ## The problem
 
-PRDs rarely land perfectly on the first read. Feedback arrives after building has started, and the PM ends up chasing people across Slack threads, docs, and meetings to figure out what changed and who it affects.
+A product requirements document (PRD) rarely lands right on the first read. Feedback shows up after building starts, and the PM ends up chasing people across Slack, docs, and meetings to learn what changed and who it affects.
 
 ## How it works
 
-Reviewers leave feedback in one place. AI checks each comment against the agreed scope. Small changes go straight to the person who owns that part of the work, and anything that changes the scope goes to the PM to approve before anyone builds it.
+Reviewers leave feedback in one place. AI checks each comment against the agreed scope. Small changes go to the person who owns that part of the work. Anything that changes the scope goes to the PM for approval before anyone builds it.
 
 ## Competitive gap
 
