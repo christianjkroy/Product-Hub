@@ -29,9 +29,9 @@ Reviewers leave feedback in one place. AI checks each comment against the agreed
 | Today's option | Where it falls short |
 |---|---|
 | Slack and meetings | Decisions get buried or arrive after work has started |
-| Jira and task trackers | Track tasks, but not why a requirement changed or what it affects |
+| Jira and task trackers | Track tasks but not why a requirement changed or what it affects |
 | Specs in Notion or Google Docs | Hold requirements, but nobody checks new feedback against them |
-| Glean and search tools | Help people find information, but do not route feedback or flag scope changes |
+| Glean and search tools | Help people find information but do not route feedback or flag scope changes |
 
 ## Concepts we explored
 
